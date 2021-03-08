@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #242424; 
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 400;
+    position: relative;
+    box-sizing: border-box;
+    
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 1.7em;
+    color:brown;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: #767676;
+
+}
+
+.main-wrapper {
+    box-sizing: border-box;
+    position: relative;
+    max-width: 1146px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+
+.header-area {
+    position: relative;
+}
+
+.rs-logo__pic {
+    max-width: 10%;
+    position: absolute;
+    right: 0;
+}
+
+.avatar {
+    position: relative;
+    max-width: 25%;
+    margin-bottom: 0.5em;
+       
+}
+
+@media (max-width: 640px) {
+body {
+    font-size: 14px;
+}
+
+    .rs-logo__pic {
+        max-width: 25%;
+    }
+    .avatar {
+        max-width: 60%;
+    
+    ;}
+  
