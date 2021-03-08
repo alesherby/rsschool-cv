@@ -1,3 +1,4 @@
+
 # ALIAKSEI MATSIISHYN
 Head of Marketing and Sales department 
 ----
@@ -21,3 +22,25 @@ My creativity, knowledge of marketing and sales, experience, character achieving
 SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL (Marketing), Gomel
 September 2004 - July2009 
 ----
+## 5.Work experience:
+* 2009-2011 - Gomeldrev JSC, marketer;
+* 2011 - 2013 - Gomeldrev JSC, deputy chief of Marketing Department
+* 2013-2020 - Gomeldrev JSC, Head of Marketing Department; 
+* 2021 - present day - Gomeldrev JSC, Head of Marketing and Furniture Sales Deaprtment
+----
+## 6.Skills: 
+in-depth knowledge of computer programs:
+* Microsoft Office
+* Corel-Draw
+* Adobe Illustrator
+* 1C ERP
+* Base knowledge in HTML, CSS.
+
+Languages
+* Native Russian
+* English (A2)
+
+
+## 7.Extracurricular Activities
+I am а quick learner, open to change and well-organized. 
+Able to prioritize and adapt well to new situations.
