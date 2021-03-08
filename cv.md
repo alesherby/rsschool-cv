@@ -44,9 +44,8 @@ Languages
 ## 7.Extracurricular Activities
 I am а quick learner, open to change and well-organized. 
 Able to prioritize and adapt well to new situations.
-Key strength:
 
-## Ссылки на  github - репозиторий ##
-* [Ссылка на мой профиль github.com](https://htmlacademy.ru/profile/id1691359/ "Перейти к моему аккаунту на HTMLacademy")
+
+
 
 
