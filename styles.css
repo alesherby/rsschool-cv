@@ -13,10 +13,22 @@ p, h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
 }
 
+h1 {
+    font-size: 1.7em;
+    color:brown;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: #767676;
+
+}
 
 .main-wrapper {
-    width: 100%;
+    box-sizing: border-box;
+    position: relative;
     max-width: 1146px;
+    width: 100%;
     margin: 0 auto;
     padding: 30px;
 }
@@ -34,8 +46,21 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .avatar {
     position: relative;
-    max-width: 20%;
+    max-width: 25%;
     margin-bottom: 0.5em;
-    
-    
+       
 }
+
+@media (max-width: 640px) {
+body {
+    font-size: 14px;
+}
+
+    .rs-logo__pic {
+        max-width: 25%;
+    }
+    .avatar {
+        max-width: 60%;
+    
+    ;}
+  
